@@ -1,0 +1,13 @@
+alias x='vi'
+
+alias xa='x ~/.bash_aliases'
+alias sa='source ~/.bash_aliases'
+alias pa='cat ~/.bash_aliases'
+
+alias gs='git status'
+alias gdf='git diff HEAD'
+
+alias ba='cd -'
+
+alias la='ls -lrtha'
+
